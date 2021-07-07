@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+#Various Visual Studio Items
+*.tlog
+*.ipch
+*.VC.*
+*.json
+*.sqlite
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.vcxproj*
+*.idb
